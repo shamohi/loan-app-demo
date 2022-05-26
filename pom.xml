@@ -5,7 +5,7 @@
 	<artifactId>loandemo</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.5</version>
-	<name>loan-app</name>
+	<name>myapp</name>
 	
 	<!-- Demo on Github Webhooks-->
 
